@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Log</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.75;
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  /* LEFT COLUMN — images close to text */
+  .left {
+    width: 41%;
+    padding: 15px 5px 5px 5px;
+    box-sizing: border-box;
+  }
+
+  .left img {
+    width: 100%;
+    display: block;
+    margin: 0;
+  }
+
+  /* RIGHT COLUMN — text */
+  .right {
+    width: 59%;
+    padding: 15px;
+    box-sizing: border-box;
+  }
+
+  .nav-top {
+    margin-bottom: 2rem;
+  }
+
+  .nav-bottom {
+    margin-top: 3rem;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+    margin: 0 0 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #666;
+  }
+
+  a {
+    color: #cc0000;
+    text-decoration: underline;
+  }
+
+  @media (max-width: 800px) {
+    body {
+      font-size: 19px;
+      line-height: 1.8;
+    }
+
+    h1 {
+      font-size: 2.6rem;
+    }
+  }
+</style>
+</head>
+
+<body>
+
+<div class="wrapper">
+
+  <!-- LEFT COLUMN -->
+  <div class="left">
+    <img src="t7.png" alt="">
+    <img src="t6.jpg" alt="">
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div class="right">
+
+    <div class="nav-top">
+      <a href="../index.html">Index</a>
+    </div>
+
+    <h1>Books I Finished (Since 10.27.13)</h1>
+
+    <p>Empire of Signs by Roland Barthes &amp; translated by Richard Howard (12.18.25 - )</p>
+    <p>The Little Prince by Antoine de Saint-Exupéry &amp; translated by Katherine Woods (?.?.25 - ?.?.25)</p>
+    <p>To the Friend Who Did Not Save My Life by Hervé Guibert &amp; translated by Linda Coverdale (11.17.24 - 12.10.24)</p>
+    <p>Spelunky by Derek Yu (10.11.18 - 10.13.18)</p>
+    <p>Richard Yates by Tao Lin (02.28.18 - 03.04.18)</p>
+    <p>Woodcutters by Thomas Bernhard &amp; translated by David McLintock (01.29.18 - 02.12.18)</p>
+    <p>The Science of Hitting by Ted Williams &amp; John Underwood (12.25.17 - 12.25.17)</p>
+    <p>Bluets by Maggie Nelson (07.22.16 - 07.29.16)</p>
+    <p>10:04 by Ben Lerner (10.01.15 - 10.20.15)</p>
+    <p>The Easter Parade by Richard Yates (09.19.15 - 09.25.15)</p>
+    <p>Suicide by Édouard Levé &amp; translated by Jan Steyn (08.25.15 - 08.28.15)</p>
+    <p>you are a little bit happier than i am by Tao Lin (06.22.15 - 06.23.15)</p>
+    <p>The Sluts by Dennis Cooper (02.03.15 - 02.08.15)</p>
+    <p>Collected Poems &amp; Stories by Mallory Whitten (09.24.14 - 09.24.14)</p>
+    <p>I Love Dick by Chris Kraus (09.09.14 - 09.23.14)</p>
+    <p>Taipei by Tao Lin (08.31.14 - 09.05.14)</p>
+    <p>Collected Fictions by Gordon Lish (08.11.14 - 08.29.14)</p>
+    <p>Log of the S.S. the Mrs Unguentine by Stanley Crawford (08.08.14 - 08.11.14)</p>
+    <p>Ray by Barry Hannah (08.04.14 - 08.05.14)</p>
+    <p>Closer by Dennis Cooper (07.31.14 - 08.02.14)</p>
+    <p>Mao II by Don DeLillo (07.20.14 - 07.27.14)</p>
+    <p>Moon Deluxe by Frederick Barthelme (07.14.14 - 07.19.14)</p>
+    <p>The Quarterly, No. 10 (07.10.14 - 07.13.14)</p>
+    <p>Wittgenstein's Mistress by David Markson (07.02.14 - 07.09.14)</p>
+    <p>Zimzum by Gordon Lish (06.27.14 - 06.27.14)</p>
+    <p>What We Talk About When We Talk About Love by Raymond Carver (06.15.14 - 06.20.14)</p>
+    <p>Waveland by Frederick Barthelme (06.02.14 - 06.13.14)</p>
+    <p>No Longer Human by Osamu Dazai &amp; translated by Donald Keene (05.19.14 - 05.20.14)</p>
+    <p>Autofiction by Hitomi Kanehara &amp; translated by David Karashima (05.14.14 - 05.17.14)</p>
+    <p>Imperial Bedrooms by Bret Easton Ellis (05.08.14 - 05.11.14)</p>
+    <p>The Stories of Breece D'J Pancake by Breece D'J Pancake (05.02.14 - 05.08.14)</p>
+    <p>what purpose did i serve in your life by Marie Calloway (04.21.14 - 04.22.14)</p>
+    <p>Breaking and Entering by Joy Williams (04.14.14 - 04.20.14)</p>
+    <p>VALIS by Philip K. Dick (04.02.14 - 04.12.14)</p>
+    <p>Snakes and Earrings by Hitomi Kanehara &amp; translated by David Karashima (04.01.14 - 04.01.14)</p>
+    <p>How Should a Person Be? by Sheila Heti (03.27.14 - 03.29.14)</p>
+    <p>Witch Piss by Sam Pink (03.25.14 - 03.25.14)</p>
+    <p>The Unbearable Lightness of Being by Milan Kundera &amp; translated by Michael Henry Heim (03.17.14 - 03.24.14)</p>
+    <p>Interzone by William S. Burroughs (03.09.14 - 03.14.14)</p>
+    <p>Rontel by Sam Pink (03.01.14 - 03.08.14)</p>
+    <p>The End of the Story by Lydia Davis (02.14.14 - 02.28.14)</p>
+    <p>Less Than Zero by Bret Easton Ellis (02.09.14 - 02.12.14)</p>
+    <p>Speedboat by Renata Adler (01.24.14 - 02.04.14)</p>
+    <p>Eeeee Eee Eeee by Tao Lin (01.17.14 - 01.21.14)</p>
+    <p>Bed by Tao Lin (01.10.14 - 01.15.14)</p>
+    <p>My Loose Thread by Dennis Cooper (01.08.14 - 01.08.14)</p>
+    <p>Leaving the Atocha Station by Ben Lerner (01.04.14 - 01.07.14)</p>
+    <p>Nausea by Jean-Paul Sartre &amp; translated by Lloyd Alexander (12.07.13 - 12.31.13)</p>
+    <p>Taipei by Tao Lin (11.20.13 - 12.02.13)</p>
+    <p>Chilly Scenes of Winter by Ann Beattie (11.02.13 - 11.08.13)</p>
+    <p>Almost Transparent Blue by Ryū Murakami &amp; translated by Nancy Andrew (10.27.13 - 10.29.13)</p>
+
+    <div class="nav-bottom">
+      <a href="../index.html">Index</a>
+    </div>
+
+  </div>
+
+</div>
+
+</body>
+</html>
